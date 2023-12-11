@@ -1,0 +1,16 @@
+{
+  "name": "dibujo-colaborativo",
+  "version": "1.0.0",
+  "description": "UNQ LAD | POAM II - TP FINAL Dibujo Colaborativo (2023).",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Zahon Rutyna Fresia.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
